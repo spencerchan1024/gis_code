@@ -2,3 +2,9 @@
 
 x <- 67+69
 y <- 118
+
+install.packages("usethis")
+
+library(usethis)
+
+use_github()
